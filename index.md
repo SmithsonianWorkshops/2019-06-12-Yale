@@ -34,9 +34,6 @@ And run 'make workshop-check' *before* committing to make sure that changes are 
 {% comment %}
 For a workshop please delete the following block
 {% endcomment %}
-<div class="alert alert-danger">
-The Carpentries (comprised of Data Carpentry, Library Carpentry, and Software Carpentry) is a project whose mission is to teach foundational computational and data science skills to researchers and others who create, manage, and use data. Specifically, Data Carpentry lessons are designed to be picked up by learners who do not have any previous programming experience. Data Carpentry workshops are typically organized in a 2-day format, but we will compress the lessons in this workshop to 1 day to focus on learning Python and Jupyter notebooks to work with data files in a reproducible manner. Before covering Python, we will go through a lesson using Excel to learn about the "tidy data" format, and best practices for working with tabular data files. We will also spend some time discussing community-building around the Carpentries, and how we can partner together to build biodiversity data science literacy at our organizations.
-</div>
 
 {% if page.carpentry != site.carpentry %}
 <div class="alert alert-warning">
