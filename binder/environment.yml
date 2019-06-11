@@ -1,0 +1,13 @@
+name: binder-environment
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pandas
+  - matplotlib
+  - numpy
+  - scipy=1.2.1
+  - plotnine
+  - pip
+  - pip:
+    - git+https://github.com/jupyterhub/jupyter-server-proxy
