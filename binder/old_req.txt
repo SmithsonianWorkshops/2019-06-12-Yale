@@ -1,5 +1,0 @@
-pandas
-matplotlib
-numpy
-plotnine
-git+https://github.com/jupyterhub/jupyter-server-proxy
